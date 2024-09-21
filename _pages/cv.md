@@ -11,27 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, University of Campinas, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Universidade Estadual de Campinas (UNICAMP), 2026 (expected)
+* M.S. in Computer Science, Universidade Estadual de Campinas (UNICAMP), 2022
+* B.S. in Computer Science, Universidade Estadual de Maringá (UEM), 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2024: AI Compiler Intern
+  * Cadence Design Systems
+  * Duties includes: Contributed to the development of fuzzy tests for the Tensilica Xtensa Neural Network Compiler (XNNC).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
