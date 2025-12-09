@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Thais Camacho"
   pronouns         : "she/her"  
-  bio              : "There's poetry in the real world; science is the poetry of reality. Richard Dawkins"
+  bio              : #""
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
