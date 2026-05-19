@@ -17,9 +17,7 @@ Education
 
 Work experience
 ======
-* 2023 - 2024: AI Compiler Intern
-  * Cadence Design Systems
-  * Duties includes: Contributed to the development of fuzzy tests for the Tensilica Xtensa Neural Network Compiler (XNNC).
+* TODO
 
 Skills
 ======
